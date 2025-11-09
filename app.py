@@ -22,7 +22,6 @@ except Exception as e:
     print(f"❌ Error saat memuat model: {e}")
     model = None
 
-# 2. Definisikan 100 nama fitur yang diharapkan model (HARUS URUT)
 # Ini harus sama persis dengan urutan kolom 'X' saat Anda melatih model
 traits = ['EXT', 'EST', 'AGR', 'CSN', 'OPN']
 answer_cols = [f"{t}{i}" for t in traits for i in range(1, 11)]
@@ -60,7 +59,6 @@ def predict():
         return jsonify({"error": f"Gagal mem-parsing JSON: {e}"}), 400
 
     # 2. Ubah JSON menjadi DataFrame yang sesuai
-    # Kita perlu memastikan data 100 fitur ada dalam urutan yang benar
     try:
         # Buat list berisi nilai-nilai fitur sesuai urutan FEATURE_COLS
         # data.get(col, 0) akan mengambil nilai (cth: data['EXT1'])
