@@ -1,7 +1,3 @@
-Tentu, berikut adalah draf `README.md` yang cocok untuk repositori Anda, lengkap dengan instruksi untuk mengunduh model dari tautan yang Anda berikan.
-
------
-
 # Big Five Model API
 
 Ini adalah API layanan web (Flask) yang melayani model Machine Learning untuk memprediksi Tipe Kepribadian Big Five (Lima Besar) berdasarkan jawaban kuesioner.
