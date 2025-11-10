@@ -193,6 +193,12 @@ Respon akan mengembalikan probabilitas yang diprediksi untuk setiap kelas.
 }
 ```
 
+### Web App
+
+Untuk github website dapat dibuka dengan link dibawah !
+
+[**➡️ Github Web App**](https://github.com/WDG-DevOps/Big-Five-Personality)
+
 ## Lisensi
 
 Proyek ini dilisensikan di bawah Lisensi MIT.
