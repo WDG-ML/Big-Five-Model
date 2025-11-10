@@ -113,7 +113,7 @@ Server akan dapat diakses di `http://localhost:5000`.
 
 ## Penggunaan API
 
-Kirim permintaan **POST** ke endpoint `/predict` dengan JSON body yang berisi 100 fitur jawaban.
+Kirim permintaan **POST** ke endpoint `/predict` dengan JSON body yang berisi 50 fitur jawaban.
 
 **Endpoint:** `POST /predict`
 
