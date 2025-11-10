@@ -119,7 +119,7 @@ Kirim permintaan **POST** ke endpoint `/predict` dengan JSON body yang berisi 10
 
 ### Contoh Request Body (JSON)
 
-Anda harus menyediakan 100 kunci, dari `EXT1` hingga `OPN10`. Nilai yang tidak ada atau non-numerik akan diperlakukan sebagai 0.
+Anda harus menyediakan 50 kunci, dari `EXT1` hingga `OPN10`. Nilai yang tidak ada atau non-numerik akan diperlakukan sebagai 0.
 
 ```json
 {
