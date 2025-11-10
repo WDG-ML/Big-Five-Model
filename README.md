@@ -1,3 +1,20 @@
+# 🧠 Big Five Personality Model - Machine Learning
+
+## 🔶 Flowchart Model
+<p align="center">
+  <img src="./Big_Five_ML.png" alt="Flowchart Big Five Machine Learning" width="400"/>
+</p>
+
+## 📓 Notebook
+Notebook lengkap dapat dilihat pada tautan berikut:
+
+[📘 Buka Notebook Big Five Classification](./Big_Five_Classification.ipynb)
+
+## Dataset
+Dataset dapat diunduh melalui tautan berikut:
+
+[📥 Download Dataset (OneDrive)](https://mikroskilacid-my.sharepoint.com/:x:/g/personal/221110518_students_mikroskil_ac_id/ETMlfHCu-5RAoA4BRqRGG4wBsnW-GXRL6p8z-tN_9s3OOw?e=mNJK3a)
+
 # Big Five Model API
 
 Ini adalah API layanan web (Flask) yang melayani model Machine Learning untuk memprediksi Tipe Kepribadian Big Five (Lima Besar) berdasarkan jawaban kuesioner.
